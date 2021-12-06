@@ -1,0 +1,20 @@
+{
+  "name": "git-prod-tag",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "git-prod-tag": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bin-version": "^3.0.0",
+    "clipboardy": "^1.2.3",
+    "inquirer": "^6.2.2",
+    "semver": "^5.6.0"
+  }
+}
